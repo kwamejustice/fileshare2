@@ -16,7 +16,7 @@ jobs:
    - persist_to_workspace:
       root:  ~/
       paths:
-       - output.test
+       - output.text
 
 
  print_output_file:
